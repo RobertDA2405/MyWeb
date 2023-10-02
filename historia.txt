@@ -1,3 +1,5 @@
 Estos son mis inicios como programador
 
 Y voy avanzando
+
+Tercer dia aprendiendo git!!!
