@@ -1,11 +1,1 @@
-Estos son mis inicios como programador
-
-Y voy avanzando
-
-<<<<<<< HEAD
-Tercer dia aprendiendo git!!!
-
-Editadooooo
-=======
-Tercer dia aprendiendo git!!!
->>>>>>> c2e510267229aebb1a27ffaedf6fbf3179c1e1de
+Hoy Miercoles 12 de Diciembre estoy retomando los estudios de git y github
