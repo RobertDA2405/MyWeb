@@ -1,0 +1,58 @@
+Hoy viernes 12 de enero Año 2024 empiezo las clases de Git y Github
+    Recapitulando un poco:
+        Git es un sistema de control de versiones que ayuda a rastrear cambios de archivos, facilitando la colaboracion en proyectos de desarrollo de software
+    
+    Comandos la terminal:
+        1- ls: Lista los archivos y carpetas en el directorio actual.
+        2- Cd: Cambia el directorio de trabajo.
+        3- pwd: Muestra la ruta completa del directorio actual.
+        4- mkdir: Crea un nuevo directorio.
+        5- touch: Crea un nuevo archivo vacio.
+        6- cp: Copia archivos o directorios (cp Archivo Destino).
+        7- mv: Mueve archivos o directorios (tambien se utiliza para cambiar el nombre).
+        8- rm: Elimina archivos o directorios.
+        9- cat: Muestra el contenido de un archivo.
+        10- nano: Abre el editor de texto 'nano' para editar un archivo.
+        11- grep: Busca patrones en archivos.
+        12- rmdir: Elimina directorios vacios.
+        13- man: Muestra el manual de un comando.
+        14- ps: Muestra informacion sobre los procesos en ejecución.
+        15- cd ..: Retrocede al lugar anterior.
+        16- history: Muestra el historial de comandos usados.
+        17- clear: Limpia la pantalla.
+        18- echo: Mostrar texto en la pantalla.
+        19- date: Mostrar fecha y hora.
+        20- cpuspeed: Mostrar velocidad de la CPU.
+
+        Comandos de Usuarios y Permisos:
+        21- whoami: Mostrar el nombre de usuario actual.
+        22- passwd: cambiar la contraseña del usuario.
+        23- sudo: Ejecutar comando en superusuario.
+        24- su: Cambiar de otro usuario.
+        25- useradd: Agregar un usuario.
+        26- userdel: Eliminar un usuario.
+        27- groupadd: Agrega un nuevo grupo.
+        28- usermod: Modificar detalles de usuario.
+
+
+        1- uname: Mostrar informacion del sistema.
+        2- lsb-release: Mostrar informacion de la distribucion.
+        3- uptime: Mostrar tiempo de actividad del sistema.
+        4- reboot: Reiniciar el sistema.
+        5- shutdown: Apagar el sistema.
+
+
+
+
+
+
+    Comandos de Git:
+        git log: Ver historial de confirmaciones. o commits. Para salir es Q.
+        git diff: Ver cambios entre commits.
+        git branch: Listar las ramas locales.
+        git remote: Ver repositorios remotos.
+        tree: Mostrar la estructura de directorios como un arbol.
+        git show: Muestra el ultimo commit y breves detalles
+        git add .: añade los ultimos cambios de algun archivo modificado
+        git commit -m "Mensaje": Con este comando se guarda un commit con un Mensaje que nosotros le demos para identificarlo.
+        git push origin

@@ -1,0 +1,2 @@
+Resumen día 1/18/2024:
+Ya se usar gran variedad de comandos de la terminal y algunos de git, los he aprendido mediante ChatGPT, probablemente continue viendo Platzi para terminar este curso.
