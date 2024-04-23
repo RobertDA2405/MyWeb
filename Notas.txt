@@ -56,3 +56,12 @@ Hoy viernes 12 de enero Año 2024 empiezo las clases de Git y Github
         git add .: añade los ultimos cambios de algun archivo modificado
         git commit -m "Mensaje": Con este comando se guarda un commit con un Mensaje que nosotros le demos para identificarlo.
         git push origin
+        git log --graph: muestra los commits en forma de ramas.
+        git log --graph --decorate --oneline: Muestra todos los commits de forma ordenada.
+
+        Alias en Git:
+        alias "Nombre del comando sin comillas" = "Comando con comillas"
+
+        Comandos con Alias:
+        arbolito: git log --graph --decorate --oneline
+        
