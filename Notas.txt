@@ -50,6 +50,9 @@ Hoy viernes 12 de enero Año 2024 empiezo las clases de Git y Github
         git log: Ver historial de confirmaciones. o commits. Para salir es Q.
         git diff: Ver cambios entre commits.
         git branch: Listar las ramas locales.
+        git branch -d <nombre_de_la_rama> (Para eliminar una rama, ojo debes estar en otra rama para hacerlo)
+        git branch -D <nombre_de_la_rama> (Este comando se usa por si quieres forzar la eliminacion de la rama)
+        git push origin --delete <nombre_de_la_rama> (Para eliminar en el repositorio remoto se usara este)
         git remote: Ver repositorios remotos.
         tree: Mostrar la estructura de directorios como un arbol.
         git show: Muestra el ultimo commit y breves detalles
