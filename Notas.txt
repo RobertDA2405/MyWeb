@@ -64,4 +64,12 @@ Hoy viernes 12 de enero Año 2024 empiezo las clases de Git y Github
 
         Comandos con Alias:
         arbolito: git log --graph --decorate --oneline
-        
+
+
+        Tags:
+        Comando:
+            git tag -a v(por lo general es v y algun numero por ejemplo 0.1) -m ""(En las comillas se pone el nombre del tag) 03e45f0(Este codigo es el hash del commit)
+        Para eliminar un tag: (Este comando solo lo borra de manera local)
+            git tag -d  
+            Para eliminarlo de GitHub es este comando:
+            git push origin :refs/tags/dormido (En este caso dormido es el nombre del tag a eliminar de GitHub)
