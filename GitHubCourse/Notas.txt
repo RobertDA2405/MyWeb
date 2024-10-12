@@ -76,3 +76,5 @@ Hoy viernes 12 de enero Año 2024 empiezo las clases de Git y Github
             git tag -d  
             Para eliminarlo de GitHub es este comando:
             git push origin :refs/tags/dormido (En este caso dormido es el nombre del tag a eliminar de GitHub)
+
+            Actualización 2024
